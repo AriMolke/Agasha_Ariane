@@ -1,0 +1,35 @@
+body{
+    background-color: #d3d5eb;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#title, #tag{
+    text-align: center;
+}
+#img-div{
+    margin: 0 auto;
+    width: 100%;
+}
+#img-div img{
+    width:100%;
+}
+#img-div #img-caption{
+    text-align: center;
+}
+
+#tribute-info{
+    margin: 10px 20px;
+}
+
+#tribute-info h3{
+    text-align: center;
+    
+}
+
+#tribute-info ul li{
+   margin: 15px 0;
+    
+}
+#tribute-link{
+    text-align: center;
+    
+}
